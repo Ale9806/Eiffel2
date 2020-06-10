@@ -13,8 +13,11 @@ Just import builder from eiffel and provide a list of neurons per layer in your 
 
 # Example:
 ```python
-from eiffel import builder
+from eiffel2 import builder
 builder([1, 10, 10, 5, 5, 2, 1])
 # or the following if you want to have a dark theme
 builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
 ```
+**output:**
+
+![alt text](https://github.com/Ale9806/Eiffel2/blob/master/eiffel2.PNG)
