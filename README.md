@@ -5,8 +5,9 @@ Neural Network architecture  Visualization tool
 
 
 ## You can use eiffel, which you can install using pip:
-
- python -m pip install eiffel 
+```python
+  python -m pip install eiffel 
+ ```
 
 Just import builder from eiffel and provide a list of neurons per layer in your network as an input.
 
