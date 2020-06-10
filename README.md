@@ -18,6 +18,10 @@ builder([1, 10, 10, 5, 5, 2, 1])
 # or the following if you want to have a dark theme
 builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
 ```
-**output:**
+**output:** (normal mode)
 
 ![alt text](https://github.com/Ale9806/Eiffel2/blob/master/eiffel2.PNG)
+
+**output:** (with bmode="night')
+![alt text](https://github.com/Ale9806/Eiffel2/blob/master/eiffel.PNG)
+
