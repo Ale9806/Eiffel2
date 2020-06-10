@@ -12,9 +12,9 @@ Neural Network architecture  Visualization tool
 Just import builder from eiffel and provide a list of neurons per layer in your network as an input.
 
 # Example:
-
+```python
 from eiffel import builder
-
 builder([1, 10, 10, 5, 5, 2, 1])
 # or the following if you want to have a dark theme
- builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
+builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
+```
