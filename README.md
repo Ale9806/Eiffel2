@@ -6,6 +6,10 @@ Neural Network architecture  Visualization tool
 
 ## You can use eiffel, which you can install using pip:
 ```python
+python -m pip install ieffel2
+ ```
+ to update eiffel:
+ ```python
   python -m pip install eiffel 
  ```
 
