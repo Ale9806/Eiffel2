@@ -10,7 +10,7 @@ python -m pip install ieffel2
  ```
  to update eiffel:
  ```python
-  python -m pip install eiffel 
+python -m pip  install ieffel2 --upgrade
  ```
 
 Just import builder from eiffel and provide a list of neurons per layer in your network as an input.
