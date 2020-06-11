@@ -47,7 +47,7 @@ builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
 
 **COLORS:**
 
-You can add colors to your network net_colors variable in builder() , keep in mind thata for a n layer network you 
+You can add colors to your network net_colors variable in **builder()** , keep in mind thata for a n layer network you 
 must select n-1 colors
 Eiffel2 is compatible with vanila python colors ("red","blue") and Hex colors 
 
