@@ -2,8 +2,6 @@
 Neural Network architecture  Visualization tool
 
 
-
-
 ## You can use eiffel, which you can install using pip:
 ```python
 python -m pip install ieffel2
@@ -45,7 +43,7 @@ builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
 <br />&nbsp;<br />
 
 
-**COLORS:**
+# COLORS:
 
 You can add colors to your network net_colors variable in **builder()** , keep in mind that for a n layer network you 
 must select n-1 colors
@@ -58,3 +56,6 @@ Eiffel2 is compatible with vanila python colors ("red","blue") and Hex colors
 from eiffel2 import builder
 builder([1,6,6,5,2],net_colors=["#581845","#900C3F","red","#FF5733"])
 ```
+**output:** 
+
+<a href="url"><img src="https://github.com/Ale9806/Eiffel2/blob/master/color.PNG" align="left"  width="300"  > </a>
