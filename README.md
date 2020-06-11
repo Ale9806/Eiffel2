@@ -36,3 +36,19 @@ builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
 **output:** (with bmode="night')
 
 <a href="url"><img src="https://github.com/Ale9806/Eiffel2/blob/master/eiffel.PNG" align="left"  width="400"  > </a>
+
+<br />&nbsp;<br />
+<br />&nbsp;<br />
+<br />&nbsp;<br />
+<br />&nbsp;<br />
+<br />&nbsp;<br />
+<br />&nbsp;<br />
+
+
+**COLORS:**
+
+You can add colors to your network net_colors variable in builder() , keep in mind thata for a n layer network you 
+must select n-1 colors
+Eiffel2 is compatible with vanila python colors ("red","blue") and Hex colors 
+
+[Online Color tool](https://www.w3schools.com/colors/colors_picker.asp)
