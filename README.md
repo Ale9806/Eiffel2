@@ -24,7 +24,7 @@ builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
 ```
 **output:** (normal mode)
 
-<a href="url"><img src="https://github.com/Ale9806/Eiffel2/blob/master/eiffel2.PNG" align="left"  width="400"  > </a>
+<a href="url"><img src="https://github.com/Ale9806/Eiffel2/blob/master/eiffel2.PNG" align="left"  width="300"  > </a>
 
 <br />&nbsp;<br />
 <br />&nbsp;<br />
@@ -35,7 +35,7 @@ builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
 
 **output:** (with bmode="night')
 
-<a href="url"><img src="https://github.com/Ale9806/Eiffel2/blob/master/eiffel.PNG" align="left"  width="400"  > </a>
+<a href="url"><img src="https://github.com/Ale9806/Eiffel2/blob/master/eiffel.PNG" align="left"  width="300"  > </a>
 
 <br />&nbsp;<br />
 <br />&nbsp;<br />
