@@ -28,8 +28,7 @@ builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
 
 <br />&nbsp;<br />
 <br />&nbsp;<br />
-<br />&nbsp;<br />
-<br />&nbsp;<br />
+
 
 
 
@@ -40,9 +39,7 @@ builder([1, 10, 10, 5, 5, 2, 1], bmode="night")
 <br />&nbsp;<br />
 <br />&nbsp;<br />
 <br />&nbsp;<br />
-<br />&nbsp;<br />
-<br />&nbsp;<br />
-<br />&nbsp;<br />
+
 
 
 # COLORS:
