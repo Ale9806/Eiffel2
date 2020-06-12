@@ -55,3 +55,9 @@ builder([1,6,6,5,2],net_colors=["#581845","#900C3F","red","#FF5733"])
 **output:** 
 
 <a href="url"><img src="https://github.com/Ale9806/Eiffel2/blob/master/color.PNG" align="left"  width="300"  > </a>
+
+<br />&nbsp;<br />
+<br />&nbsp;<br />
+<br />&nbsp;<br />
+
+[PYPI PAGE](https://pypi.org/project/eiffel2/)
