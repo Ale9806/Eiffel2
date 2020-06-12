@@ -4,7 +4,7 @@ Neural Network architecture  Visualization tool
 
 ## You can use eiffel2, which you can install using pip:
 ```python
-python -m pip install ieffel2
+python -m pip install eiffel2
  ```
  to update eiffel:
  ```python
