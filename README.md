@@ -1,5 +1,5 @@
 # Eiffel2
- > current version: 0.0.4  <br />  Next release: 19/20/2020
+ > current version: 0.0.4  <br />  Next release: :c not soon
  
 Neural Network architecture  Visualization tool
 
